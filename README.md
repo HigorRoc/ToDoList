@@ -35,14 +35,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <!-- REQUISITOS DO SISTEMA -->
 ## 🛠 Funcionalidades
-- `Cadastrar Usuários` | Realizar o Cadastro do usuário com Nome, Email, Senha e Foto do perfil;
-- `Ativar/Desativar Usuários` | Realizar a ativação ou desativação do usuário no acesso ao sistema;
-- `Cadastrar Produtos` | Realizar o Cadastro de Produtos com Nome, Fabricante, Quantidade, Valor de Compra e Venda;
-- `Alterar Produtos` | Realizar a Alteração de dados do produto cadastrado;
-- `Ativar/Desativar Produtos` | Realizar a ativação ou desativação de um produto, caso o mesmo tenha se tornado obsoleto;
-- `Cadastrar Fabricantes` | Realizar o Cadastro de Fabricantes dos produtos com Nome/Razão Social, CPF/CNPJ e email;
-- `Cadastrar Representantes` | Realizar o Cadastro de Representantes dos fabricantes com Nome e Email;
-- `Registrar Venda` | Realizar o registro de uma venda e automaticamente atualizado a quantidade no estoque;
+- `Inserir Tarefa` | Inserir uma tarefa a ser realizada no campo informado (até 50 caracteres);
+- `Salvar Tarefa` | Salvar a tarefa e automaticamente irá para a lista abaixo;
+- `Marcar (realizado)` | Marcar o "check" ao lado da tarefa para constar tarefa realizada;
+- `Desmarcar (não realizado)` | Retirar o "check" ao lado da tarefa para constar tarefa ainda não realizada;
+- `Excluir Tarefas` | Excluir a tarefa arrastando a mesma para o lado;
 
 <!-- LAYOUT DO SISTEMA -->
 ## 💻 Layout
