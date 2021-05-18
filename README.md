@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Projeto desenvolvido e atrelado com a disciplina de "Aplicações Mobile" da UNINOVE, ministrada pelo Profº <a href:"https://github.com/EdsonMSouza">Edson</a>, onde o mesmo tem por seu objetivo organizar e controlar tarefas a serem realizadas, como por exemplo "ir ao mercado". 
+  Projeto desenvolvido e atrelado com a disciplina de "Aplicações Mobile" da UNINOVE, ministrada pelo Profº Edson, onde o mesmo tem por seu objetivo organizar e controlar tarefas a serem realizadas, como por exemplo "Formatar notebook" ou "Comprar memória". 
 </p>
 
 <br/>
