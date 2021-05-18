@@ -51,7 +51,7 @@ Você pode visualizar o layout básico do projeto através [desse link](https://
 
 <!-- AUTOR  -->
 ## :busts_in_silhouette: Autor
-[<img src=".toDoList/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha </sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".toDoList/EdsonProfile.jpg" width=115 > <br> <sub> Edson Souza</sub>](https://github.com/EdsonMSouza) <br><sub>Professor Uninove</sub> |
+[<img src=".toDoList/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha </sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".toDoList/EdsonProfile.jpg" width=115 > <br> <sub> Edson Souza</sub>](https://github.com/EdsonMSouza) <br><sub>Professor/Orientador</sub> |
 | :---: | :---: |  
 
 
