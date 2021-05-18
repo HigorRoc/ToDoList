@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ToDoList" title="ToDoList" src=".toDoList/Logo.png" width=370px height=150px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/Logo.png" width=360px height=110px/>
 </h1>
 
 <p align="center">
