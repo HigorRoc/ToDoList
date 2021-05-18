@@ -51,11 +51,15 @@ Você pode visualizar o layout básico do projeto através [desse link](https://
 
 <!-- AUTOR  -->
 ## :busts_in_silhouette: Autor
-<p>
-    <a href="//github.com/HigorRoc"><img alt="Higor" title="Higor" src=".toDoList/higor.png" width=90px height=90px/></a>
-</p>
+[<img src=".toDoList/HigorProfile.jpg" width=115 > <br> <sub> Higor Rocha </sub>](https://github.com/HigorRoc) <br><sub>Aluno/Desenvolvedor</sub> | [<img src=".toDoList/EdsonProfile.jpg" width=115 > <br> <sub> Edson Souza</sub>](https://github.com/EdsonMSouza) <br><sub>Professor Uninove</sub> |
+| :---: | :---: |  
+
 
 <!-- CONTATOS -->
 ## :speech_balloon: Contatos
 [![Instagram](https://img.shields.io/badge/-Instagram_-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://instagram.com/hiigorrocha_)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/higor-silva18/)&nbsp;
+
+---
+
+Copyright ©️ 2021 - ToDoList
