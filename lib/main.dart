@@ -5,7 +5,7 @@ import 'package:to_do_list/telas/home.dart';
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Lista de tarefas',
+    title: 'To Do List ',
     home: Home(),
     themeMode: ThemeMode.system, // tema atual do smartphone
     theme: lightTheme(),

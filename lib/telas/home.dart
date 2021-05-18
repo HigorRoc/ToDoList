@@ -97,7 +97,7 @@ class _HomeState extends State<Home> {
         value: _toDoList[index]["realizado"],
         secondary: CircleAvatar(
           child: Icon(
-            _toDoList[index]["realizado"] ? Icons.check : Icons.error,
+            _toDoList[index]["realizado"] ? Icons.check : Icons.bubble_chart,
             color: Theme.of(context).iconTheme.color,
           ),
           backgroundColor: Theme.of(context).primaryColor,
@@ -123,9 +123,9 @@ class _HomeState extends State<Home> {
         });
         // ação de desfazer
         final snack = SnackBar(
-          content: Text("Tarefa \"${_lastRemoved["titulo"]}\" apagada!"),
+          content: Text("Task \"${_lastRemoved["titulo"]}\" deleted!"),
           action: SnackBarAction(
-              label: "Desfazer",
+              label: "Recover",
               onPressed: () {
                 setState(() {
                   _toDoList.insert(_indexLastRemoved, _lastRemoved);
@@ -145,7 +145,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Lista de Tarefas"),
+        title: Text("To Do List"),
         centerTitle: true,
       ),
       body: Builder(
@@ -159,17 +159,20 @@ class _HomeState extends State<Home> {
                       child: TextField(
                     controller: _toDoController,
                     maxLength: 50,
-                    decoration: InputDecoration(labelText: "Nova tarefa"),
+                    decoration: InputDecoration(labelText: "New task"),
                   )),
                   Container(
                     height: 45.0,
                     width: 45.0,
                     child: FloatingActionButton(
-                      child: Icon(Icons.save),
+                      child: Icon(
+                        Icons.add_outlined,
+                        color: Colors.black,
+                        ),
                       onPressed: () {
                         if (_toDoController.text.isEmpty) {
                           final alerta = SnackBar(
-                            content: Text('Não pode ser vazia!'),
+                            content: Text('It cannot be empty!'),
                             duration: Duration(seconds: 4),
                             action: SnackBarAction(
                               label: 'Ok',
