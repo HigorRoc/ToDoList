@@ -43,8 +43,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <!-- LAYOUT DO SISTEMA -->
 ## 💻 Layout
-Você pode visualizar o layout básico do projeto através [desse link](https://marvelapp.com/prototype/728ab14). Lembrando que não é necessáario ter uma conta no Google Drive para acessá-lo.
-(imagens com baixa resolução, o vídeo presente na pasta tem um melhor resultado e demonstração). 
+Você pode visualizar abaixo o layout básico do projeto, onde temos nas imagens: 1. como o aplicativo abre (vazio); 2. tarefas inseridas; 3. tarefas marcadas como realizadas ou não realizadas; 4. excluindo uma tarefa do aplicativo.
+
+<p align="left">
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela1.jpg" width=180px height=400px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela2.jpg" width=180px height=400px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela3.jpg" width=180px height=400px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela4.jpg" width=180px height=400px/>
+</p> 
 
 <!-- AUTOR  -->
 ## :busts_in_silhouette: Autor
