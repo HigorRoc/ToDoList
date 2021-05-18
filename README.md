@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ToDoList" title="ToDoList" src=".apextech/logo2.png" width=370px height=100px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/logo2.png" width=370px height=100px/>
 </h1>
 
 <p align="center">
@@ -52,7 +52,7 @@ Você pode visualizar o layout básico do projeto através [desse link](https://
 <!-- AUTOR  -->
 ## :busts_in_silhouette: Autor
 <p>
-    <a href="//github.com/HigorRoc"><img alt="Higor" title="Higor" src=".apextech/higor.png" width=90px height=90px/></a>
+    <a href="//github.com/HigorRoc"><img alt="Higor" title="Higor" src=".toDoList/higor.png" width=90px height=90px/></a>
 </p>
 
 <!-- CONTATOS -->
