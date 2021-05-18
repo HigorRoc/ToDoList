@@ -25,9 +25,10 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - `Desenvolvimento` ![Dart](https://img.shields.io/badge/-Dart-05122A?&logo=Dart&logoColor=007ACC)
-                    ![Flutter](https://img.shields.io/badge/-Flutter-05122A?&logo=Flutter&logoColor=007ACC)
+                    ![Flutter](https://img.shields.io/badge/-Flutter-05122A?&logo=Flutter&logoColor=00BFFF)
 
 - `Ferramentas` ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+                ![Android](https://img.shields.io/badge/-Android-05122A?&logo=Android&logoColor=32CD32)
               
 - `Versionamento` ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git)
                   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=github)
