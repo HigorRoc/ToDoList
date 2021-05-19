@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar abaixo o layout básico do projeto, onde temos nas imagens: 1. como o aplicativo abre (vazio); 2. tarefas inseridas; 3. tarefas marcadas como realizadas ou não realizadas; 4. excluindo uma tarefa do aplicativo.
 
 <p align="left">
-    <img alt="ToDoList" title="ToDoList" src=".toDoList/telas.jpg" width=180px height=400px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/telas.png" width=750/>
 </p> 
 
 <!-- AUTOR  -->
