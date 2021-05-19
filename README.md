@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="speech_balloon-contatos">Contatos</a>
 </p>
@@ -46,10 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar abaixo o layout básico do projeto, onde temos nas imagens: 1. como o aplicativo abre (vazio); 2. tarefas inseridas; 3. tarefas marcadas como realizadas ou não realizadas; 4. excluindo uma tarefa do aplicativo.
 
 <p align="left">
-    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela1.jpg" width=180px height=400px/>
-    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela2.jpg" width=180px height=400px/>
-    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela3.jpg" width=180px height=400px/>
-    <img alt="ToDoList" title="ToDoList" src=".toDoList/tela4.jpg" width=180px height=400px/>
+    <img alt="ToDoList" title="ToDoList" src=".toDoList/telas.jpg" width=180px height=400px/>
 </p> 
 
 <!-- AUTOR  -->
